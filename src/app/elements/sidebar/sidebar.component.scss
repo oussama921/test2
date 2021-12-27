@@ -1,0 +1,40 @@
+.green{
+    color:#28bd63;
+}
+
+.red{
+    color:#df464b;
+}
+
+.element{
+    display:flex;
+    margin:20px 0px 5px 0px;
+    justify-content: space-between;
+}
+.element:hover{
+    cursor: pointer;
+}
+.element mat-icon{
+    font-size: 20px;
+    ;
+}
+.element p{
+    margin-left:10px;
+    font-size: 0.7em;
+    font-weight:bold
+}
+.flex{
+    display:flex;
+}
+
+#messages-personnalise{
+    margin-top:50px;
+    color:#313131;
+    font-weight: 900;
+}
+
+#messages-personnalise p{
+    margin-top:10px;
+    font-size: 0.7em;
+    color:#707070;
+}

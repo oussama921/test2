@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:20px
+}
+
+.nav-elements{
+    display:flex;
+    justify-content: flex-start;
+    font-size: 1.2em;
+    padding-bottom:5px;
+}
+
+.nav-element{
+    margin-right:20px;
+}
+.nav-element:hover{
+    cursor: pointer;
+}
+
+#settings{
+    font-size:0.8em;
+    font-weight:bolder;
+    border-bottom: 2px solid #05224B;
+}
+#settings:hover{
+    cursor: pointer;
+}
+
+.subtitled{
+    border-bottom: 2px solid #05224B;
+}
